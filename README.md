@@ -1,6 +1,6 @@
-📊 Tech Challenge - NPS Preditivo
+📊 **Tech Challenge - NPS Preditivo**
 
-🎯 Objetivo
+🎯 **Objetivo**
 
 Este projeto tem como objetivo analisar os fatores que impactam a satisfação dos clientes (NPS) em um e-commerce e propor uma abordagem preditiva capaz de antecipar a experiência do cliente antes da coleta da pesquisa.
 
@@ -19,7 +19,7 @@ Isso levanta a seguinte questão:
 
 Como transformar dados operacionais em ações práticas para melhorar a experiência do cliente antes da coleta do NPS?
 
-📂 Base de Dados
+📂 **Base de Dados**
 
 A base contém dados históricos relacionados a:
 
@@ -30,7 +30,7 @@ A base contém dados históricos relacionados a:
 ⭐ Satisfação (CSAT e NPS)
 🎯 Variável alvo nps_score (escala de 0 a 10)
 
-🔍 Metodologia
+🔍 **Metodologia**
 
 O projeto foi estruturado em quatro etapas principais:
 
@@ -50,7 +50,7 @@ Investigação de padrões e identificação dos principais drivers de satisfaç
 
 Proposta de modelo para antecipar o NPS antes da pesquisa.
 
-📊 Principais Insights
+📊 **Principais Insights**
 
 A análise exploratória revelou que:
 
@@ -62,7 +62,7 @@ A análise exploratória revelou que:
 
 A combinação de atraso na entrega + necessidade de suporte gera uma queda acentuada na satisfação do cliente.
 
-📈 Visualizações
+📈 **Visualizações**
 
 O projeto inclui:
 
@@ -76,7 +76,7 @@ Comparação de indicadores por nível de satisfação
 
 Foi proposta uma abordagem de classificação para prever a satisfação do cliente.
 
-🎯 Objetivo
+🎯 **Objetivo**
 
 Antecipar clientes com risco de se tornarem detratores.
 
@@ -113,19 +113,20 @@ Melhorar comunicação com o cliente
 
 Implementar modelo preditivo para atuação preventiva
 
-⚠️ Limitações
+⚠️ **Limitações**
 
 O NPS é uma métrica reativa, coletada após a experiência
 Correlação não implica causalidade
 Ausência de dados qualitativos (motivo das reclamações)
 Possível viés na coleta da pesquisa
-🚀 Como Executar o Projeto
+
+🚀 **Como Executar o Projeto**
 
 1. Clone o repositório
 
 git clone https://github.com/EdsonDoro/TechChallenge-Fase1.git
 
-cd tech-challenge-fase1
+cd TechChallenge-Fase1
 
 2. Instale as dependências
 
@@ -135,9 +136,9 @@ pip install -r requirements.txt
 
 jupyter notebook /tech_challenge_nps_analise_estruturada.ipynb
 
-📁 Estrutura do Projeto
+📁 **Estrutura do Projeto**
 
-tech-challenge-nps/
+TechChallenge-Fase1/
 
 │
 
@@ -151,7 +152,7 @@ tech-challenge-nps/
 
 └── requirements.txt
 
-📈 Próximos Passos
+📈 **Próximos Passos**
 
 Implementação do modelo em ambiente produtivo
 Criação de dashboard de monitoramento (ex: Power BI)
@@ -162,12 +163,12 @@ Evolução para modelos mais robustos (XGBoost, ML Ops)
 Projeto desenvolvido como parte do Tech Challenge - Fase 1 (Pós-Tech).
 
  
-─────────────────────────────────────────────────
-OPCÃO DE ANÁLISE
-─────────────────────────────────────────────────
+─────────────────────────────────────────────────<br>
+**OPCÃO DE ANÁLISE**<br>
+─────────────────────────────────────────────────<br>
  
-📌 1. Entendimento do Negócio
-❓ Qual problema de negócio está sendo resolvido?
+📌 **1. Entendimento do Negócio**
+❓ *Qual problema de negócio está sendo resolvido?*
 
 A empresa enfrenta alta variabilidade no NPS entre clientes, mesmo com indicadores operacionais semelhantes.
 
@@ -176,7 +177,7 @@ Identificar quais fatores operacionais impactam a satisfação do cliente e perm
 
 Atualmente, o NPS é medido apenas após a jornada, o que limita a capacidade de antecipar insatisfações e agir proativamente.
 
-❓ Por que o NPS é importante para um e-commerce?
+❓ *Por que o NPS é importante para um e-commerce?*
 O NPS é um dos principais indicadores de:
 Lealdade do cliente
 Qualidade da experiência
@@ -187,7 +188,7 @@ Crescimento orgânico (boca a boca)
 Retenção de clientes
 Receita de longo prazo
 
-❓ Quais áreas se beneficiam desses insights?
+❓ *Quais áreas se beneficiam desses insights?*
 As principais áreas impactadas são:
 Logística: melhoria no prazo de entrega e redução de atrasos
 Atendimento: redução de contatos e tempo de resolução
@@ -195,7 +196,7 @@ Produto: melhoria na experiência de compra
 Pricing: ajuste de percepção de valor
 Estratégia: priorização de investimentos com base em impacto no cliente
 
-❓ Como o NPS impacta o negócio?
+❓ *Como o NPS impacta o negócio?*
 📌 Recompra
 Clientes com NPS alto tendem a comprar novamente com maior frequência.
 
@@ -205,7 +206,7 @@ Promotores recomendam a marca, enquanto detratores podem prejudicar a reputaçã
 📌 Market share
 Empresas com melhor experiência do cliente ganham vantagem competitiva.
 
-❓ Quais indicadores complementares poderiam ser usados?
+❓ *Quais indicadores complementares poderiam ser usados?*
 CSAT (satisfação imediata)
 SLA logístico (tempo e atraso de entrega)
 Taxa de recompra
@@ -213,27 +214,27 @@ Churn rate
 Benchmark de NPS de concorrentes
 Tempo médio de atendimento
 
-📌 2. Definição da Target
-❓ Qual variável representa a satisfação do cliente?
+📌 **2. Definição da Target**
+❓ *Qual variável representa a satisfação do cliente?*
 A variável escolhida é:
 👉 nps_score
 
-❓ Por que ela foi escolhida?
+❓ *Por que ela foi escolhida?*
 Representa diretamente a percepção do cliente
 É amplamente utilizada no mercado
 Permite segmentação clara (promotores, neutros e detratores)
 
-❓ Em que momento da jornada ela é coletada?
+❓ *Em que momento da jornada ela é coletada?*
 O NPS é coletado após o encerramento da jornada de compra, ou seja, depois da entrega e da experiência completa do cliente.
 
-❓ Existe risco no uso dessa variável?
+❓ *Existe risco no uso dessa variável?*
 Sim, existem alguns riscos:
 É uma métrica reativa, não preventiva
 Pode sofrer viés emocional (experiência recente)
 Não explica diretamente o motivo da nota
 
-📌 3. Análise Exploratória de Dados (EDA)
-❓ Quais fatores parecem mais críticos para a satisfação?
+📌 **3. Análise Exploratória de Dados (EDA)**
+❓ *Quais fatores parecem mais críticos para a satisfação?*
 Os principais fatores identificados foram:
 Atraso na entrega
 Número de reclamações
@@ -241,23 +242,21 @@ Quantidade de contatos com atendimento
 Tempo de resolução de problemas
 👉 Esses fatores têm forte impacto negativo no NPS.
 
-❓ O que mais gera detratores?
+❓ *O que mais gera detratores?*
 Os principais drivers de detratores são:
-
 Entregas atrasadas
 Alto número de reclamações
 Necessidade de múltiplos contatos com suporte
 Demora na resolução de problemas
 
-❓ Existe algum ponto de ruptura na experiência?
+❓ *Existe algum ponto de ruptura na experiência?*
 Sim.
-
 Foi identificado que:
 Qualquer atraso na entrega já impacta negativamente o NPS
 A combinação de atraso + suporte necessário gera queda acentuada na satisfação
 👉 Isso caracteriza um “ponto crítico” na jornada do cliente.
 
-❓ Que tipo de cliente tende a ter NPS mais alto ou mais baixo?
+❓ *Que tipo de cliente tende a ter NPS mais alto ou mais baixo?*
 Clientes com NPS alto:
 Recebem pedidos no prazo
 Não precisam acionar suporte
@@ -270,25 +269,25 @@ Possuem múltiplas interações com atendimento
 Registram reclamações
 Enfrentam demora na resolução
 
-📌 4. Proposta de Modelo Preditivo
-❓ Qual estratégia você adotaria?
+📌 **4. Proposta de Modelo Preditivo**
+❓ *Qual estratégia você adotaria?*
 A estratégia recomendada é um modelo de classificação, segmentando clientes em:
 Promotores
 Neutros
 Detratores
 
-❓ Por que essa abordagem?
+❓ *Por que essa abordagem?*
 Mais alinhada com decisões de negócio
 Permite ações práticas (ex: tratar detratores)
 Facilita interpretação para áreas não técnicas
 
-❓ Definição da variável alvo
+❓ *Definição da variável alvo*
 Transformar o nps_score em categorias:
 0–6 → Detrator
 7–8 → Neutro
 9–10 → Promotor
 
-❓ Variáveis de entrada
+❓ *Variáveis de entrada*
 Logística:
 delivery_delay_days
 delivery_time_days
@@ -303,23 +302,23 @@ Cliente:
 customer_tenure_months
 customer_region
 
-❓ Separação dos dados
+❓ *Separação dos dados*
 Treino: 70%
 Teste: 30%
 
-❓ Modelo escolhido
+❓ *Modelo escolhido*
 Random Forest
 Motivo:
 Boa performance
 Interpretação razoável
 Robustez a variáveis diversas
 
-❓ Avaliação do modelo
+❓ *Avaliação do modelo*
 Accuracy
 F1-score
 Matriz de confusão
 
-❓ Como usar na prática?
+❓ *Como usar na prática?*
 
 O modelo pode ser utilizado para:
 Identificar clientes com risco de insatisfação antes da pesquisa
@@ -328,21 +327,21 @@ Priorizar pedidos críticos
 👉 Exemplo:
 Cliente com atraso + reclamação → alerta automático → ação preventiva
 
-📌 5. Recomendações para o Negócio
+📌 **5. Recomendações para o Negócio**
 Com base nos insights:
-🚀 Reduzir atrasos logísticos
+🚀 *Reduzir atrasos logísticos*
 Principal fator de insatisfação
-🚀 Melhorar atendimento
+🚀 *Melhorar atendimento*
 Reduzir tempo de resolução
 Resolver no primeiro contato
-🚀 Diminuir reclamações
+🚀 *Diminuir reclamações*
 Melhor comunicação
 Gestão de expectativas
-🚀 Implementar modelo preditivo
+🚀 *Implementar modelo preditivo*
 Antecipar detratores
 Agir antes da pesquisa
 
-📌 6. Limitações e Riscos
+📌 **6. Limitações e Riscos**
 NPS é coletado após a experiência
 Não captura motivos qualitativos
 Correlação não implica causalidade
