@@ -123,7 +123,7 @@ Possível viés na coleta da pesquisa
 
 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/tech-challenge-nps.git
+git clone https://github.com/EdsonDoro/TechChallenge-Fase1.git
 
 cd tech-challenge-nps
 
