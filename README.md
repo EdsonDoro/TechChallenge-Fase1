@@ -36,8 +36,8 @@ níveis muito diferentes de satisfação.
 
 ## 📂 Estrutura do Projeto
 
-    tech-challenge-nps/
-    ├── data/
+    tech-challenge-fase1/
+    ├── data/raw/
     ├── notebooks/
     ├── reports/
     │   └── figures/
@@ -102,6 +102,6 @@ Modelo: Random Forest
 ## 👤 Autor
 
 
-Alessandra M. Capecce
-Alessandro P. dos Santos 
+Alessandra M. Capecce,
+Alessandro P. dos Santos,
 Edson L. Doro
