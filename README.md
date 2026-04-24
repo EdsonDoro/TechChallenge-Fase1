@@ -57,10 +57,10 @@ níveis muito diferentes de satisfação.
 
 ## 🧠 Metodologia
 
-1.  Entendimento do problema\
-2.  Definição da target\
-3.  EDA\
-4.  Insights\
+1.  Entendimento do problema
+2.  Definição da target
+3.  EDA
+4.  Insights
 5.  Modelo preditivo
 
 ------------------------------------------------------------------------
@@ -84,8 +84,8 @@ Modelo: Random Forest
 
 ## ⚠️ Limitações
 
--   NPS é reativo\
--   Correlação ≠ causalidade\
+-   NPS é reativo
+-   Correlação ≠ causalidade
 -   Sem dados qualitativos
 
 ------------------------------------------------------------------------
@@ -101,4 +101,7 @@ Modelo: Random Forest
 
 ## 👤 Autor
 
-Edson Doro
+
+Alessandra M. Capecce
+Alessandro P. dos Santos 
+Edson L. Doro
