@@ -41,6 +41,7 @@ níveis muito diferentes de satisfação.
     ├── notebooks/
     ├── reports/
     │   └── figures/
+    │   1IAST - Fase 1 - Tech Challenge.pdf
     ├── README.md
     └── requirements.txt
 
