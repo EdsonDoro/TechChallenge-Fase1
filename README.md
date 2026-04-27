@@ -38,10 +38,10 @@ níveis muito diferentes de satisfação.
 
     tech-challenge-fase1/
     ├── data/raw/
+    ├── models/
     ├── notebooks/
     ├── reports/
     │   └── figures/
-    ├── models/
     ├── README.md
     └── requirements.txt
 
@@ -90,18 +90,30 @@ Modelo: Random Forest
 
 ------------------------------------------------------------------------
 
+## 📈 Resultados do Modelo
+
+O modelo preditivo foi desenvolvido como etapa opcional para antecipar clientes com risco de insatisfação.
+
+-   Accuracy
+-   F1-Score
+-   Matriz de confusão
+
+A proposta é usar o modelo como suporte à proprização de clientes com maior risco de se tornarem detratores.
+
+------------------------------------------------------------------------
+
 ## 🚀 Como Executar
 
     git clone https://github.com/EdsonDoro/TechChallenge-Fase1.git
     cd TechChallenge-Fase1
     pip install -r requirements.txt
-    jupyter notebook
+    jupyter notebook notebooks/tech_challenge_fase1.ipynb
 
 ------------------------------------------------------------------------
 
 ## 👤 Autor
 
 
-Alessandra M. Capecce,
-Alessandro P. dos Santos,
-Edson L. Doro
+- Alessandra M. Capecce,
+- Alessandro P. dos Santos,
+- Edson L. Doro
