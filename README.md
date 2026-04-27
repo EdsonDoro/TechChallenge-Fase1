@@ -98,7 +98,7 @@ O modelo preditivo foi desenvolvido como etapa opcional para antecipar clientes 
 -   F1-Score
 -   Matriz de confusão
 
-A proposta é usar o modelo como suporte à proprização de clientes com maior risco de se tornarem detratores.
+A proposta é usar o modelo como suporte à priorização de clientes com maior risco de se tornarem detratores.
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ A proposta é usar o modelo como suporte à proprização de clientes com maior 
 
 ------------------------------------------------------------------------
 
-## 👤 Autor
+## 👤 Autores
 
 
 - Alessandra M. Capecce,
