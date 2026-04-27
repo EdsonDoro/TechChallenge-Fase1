@@ -38,7 +38,6 @@ níveis muito diferentes de satisfação.
 
     tech-challenge-fase1/
     ├── data/raw/
-    ├── models/
     ├── notebooks/
     ├── reports/
     │   └── figures/
