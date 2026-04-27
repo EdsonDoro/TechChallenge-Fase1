@@ -94,8 +94,8 @@ Modelo: Random Forest
 O modelo preditivo foi desenvolvido como etapa opcional para antecipar clientes com risco de insatisfação.
 
 -   Accuracy
--   F1-Score
--   Matriz de confusão
+-   F1-Score: 0.82
+-   Matriz de confusão: 0.79
 
 A proposta é usar o modelo como suporte à priorização de clientes com maior risco de se tornarem detratores.
 
