@@ -39,6 +39,7 @@ níveis muito diferentes de satisfação.
     tech-challenge-fase1/
     ├── data/raw/
     ├── notebooks/
+    │   └── tech_challenge_fase1.ipynb
     ├── models/
     ├── reports/
     │   └── figures/
