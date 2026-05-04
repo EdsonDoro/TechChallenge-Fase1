@@ -39,11 +39,12 @@ níveis muito diferentes de satisfação.
     tech-challenge-fase1/
     ├── data/raw/
     ├── notebooks/
+    ├── models/
     ├── reports/
     │   └── figures/
     │   1IAST - Fase 1 - Tech Challenge.pdf
     ├── README.md
-    └── requirements.txt
+    ├── requirements.txt
     ├── Tech Challenge - Fase 1 - NPS Preditivo.pdf
     └── Tech Challenge - Fase 1 - NPS Preditivo.pptx
 
