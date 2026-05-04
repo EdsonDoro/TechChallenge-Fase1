@@ -44,6 +44,8 @@ níveis muito diferentes de satisfação.
     │   1IAST - Fase 1 - Tech Challenge.pdf
     ├── README.md
     └── requirements.txt
+    ├── Tech Challenge - Fase 1 - NPS Preditivo.pdf
+    └── Tech Challenge - Fase 1 - NPS Preditivo.pptx
 
 ------------------------------------------------------------------------
 
