@@ -52,7 +52,8 @@ níveis muito diferentes de satisfação.
 ## 📊 Visualizações
 
 ![Distribuição](reports/figures/nps_distribution.png)
-![Correlação](reports/figures/heatmap.png)
+![Correlação](reports/figures/top_correlacoes_nps.png)
+![Heatmap Correlação](reports/figures/heatmap_correlacao.png)
 ![Atraso](reports/figures/delay_vs_nps.png)
 
 ------------------------------------------------------------------------
