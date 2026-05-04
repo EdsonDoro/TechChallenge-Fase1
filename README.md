@@ -51,10 +51,11 @@ níveis muito diferentes de satisfação.
 
 ## 📊 Visualizações
 
-![Distribuição](reports/figures/nps_distribution.png)
-![Correlação](reports/figures/top_correlacoes_nps.png)
-![Heatmap Correlação](reports/figures/heatmap_correlacao.png)
-![Atraso](reports/figures/delay_vs_nps.png)
+![Distribuição](notebooks\reports\figures\nps_distribution.png)
+![Distribuição por Classe](notebooks\reports\figures\nps_class_distribution.png)
+![Correlação](notebooks\reports\figures\top_correlacoes_nps.png)
+![Heatmap Correlação](notebooks\reports\figures\heatmap_correlacao.png)
+![Atraso](notebooks\reports\figures\delay_vs_nps.png)
 
 ------------------------------------------------------------------------
 
