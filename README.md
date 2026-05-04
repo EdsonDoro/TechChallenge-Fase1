@@ -52,8 +52,8 @@ níveis muito diferentes de satisfação.
 
 ## 📊 Visualizações
 
-![Distribuição](reports\figures\nps_distribution.png)
-![Distribuição por Classe](reports\figures\nps_class_distribution.png)
+![Distribuição](https://raw.githubusercontent.com/EdsonDoro/TechChallenge-Fase1/main/reports/figures/nps_distribution.png)
+![Distribuição por Classe](https://github.com/EdsonDoro/TechChallenge-Fase1/raw/main/reports/reports\figures\nps_class_distribution.png)
 ![Correlação](reports\figures\top_correlacoes_nps.png)
 ![Heatmap Correlação](reports\figures\heatmap_correlacao.png)
 ![Atraso](reports\figures\delay_vs_nps.png)
