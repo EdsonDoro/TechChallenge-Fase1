@@ -120,7 +120,8 @@ A proposta é usar o modelo como suporte à priorização de clientes com maior 
 
 ## 🚀 Vídeo de Apresentação
 
-[Assista a apresentação](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F5A5B80C5539E16C2%21s08b14d5a911246799c5b96e9fc761377%3Fithint%3Dvideo%26wdOrigin%3DOWA%2ELINK%26wdPreviousSession%3D9bf49e35%2Dc61a%2D4f05%2D9868%2D90acf5696777%26migratedtospo%3Dtrue&cid=5A5B80C5539E16C2&id=5A5B80C5539E16C2%21s08b14d5a911246799c5b96e9fc761377&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy81YTViODBjNTUzOWUxNmMyL0lRQmFUYkVJRXBGNVJweGJsdW44ZGhOM0FXcmQyeC00b1VHd2F2eFRIWDQtM2xFP3dkT3JpZ2luPU9XQS5MSU5LJndkUHJldmlvdXNTZXNzaW9uPTliZjQ5ZTM1LWM2MWEtNGYwNS05ODY4LTkwYWNmNTY5Njc3Nw&v=photos)
+
+<a href="https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F5A5B80C5539E16C2%21s08b14d5a911246799c5b96e9fc761377%3Fithint%3Dvideo%26wdOrigin%3DOWA%2ELINK%26wdPreviousSession%3D9bf49e35%2Dc61a%2D4f05%2D9868%2D90acf5696777%26migratedtospo%3Dtrue&cid=5A5B80C5539E16C2&id=5A5B80C5539E16C2%21s08b14d5a911246799c5b96e9fc761377&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy81YTViODBjNTUzOWUxNmMyL0lRQmFUYkVJRXBGNVJweGJsdW44ZGhOM0FXcmQyeC00b1VHd2F2eFRIWDQtM2xFP3dkT3JpZ2luPU9XQS5MSU5LJndkUHJldmlvdXNTZXNzaW9uPTliZjQ5ZTM1LWM2MWEtNGYwNS05ODY4LTkwYWNmNTY5Njc3Nw&v=photos" target="_blank">Assista a apresentação</a>
 
 ------------------------------------------------------------------------
 
